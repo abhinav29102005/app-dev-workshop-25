@@ -464,11 +464,10 @@ This Flutter Portfolio App workshop provides a solid foundation in:
 
 ---
 
-## 📧 Contact & Support
 
 **Workshop Resources:**
-- GitHub Repository: [Link to your repo]
-- Presentation Slides: [Link to slides]
+- GitHub Repository: 
+- Presentation Slides: [\[Link to slides\]](https://www.canva.com/design/DAG3wj61aBs/jyatvjIsyPHZa0cVopJy1Q/edit?utm_content=DAG3wj61aBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 *Last Updated: November 2025*  

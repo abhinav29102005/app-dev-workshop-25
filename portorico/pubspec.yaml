@@ -1,0 +1,28 @@
+name: portfolio_app
+description: A Flutter portfolio application workshop project
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.2.1
+  google_fonts: ^6.1.0
+  font_awesome_flutter: ^10.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Uncomment and add assets if needed
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/

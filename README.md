@@ -1,16 +1,4 @@
 # Flutter Portfolio App Workshop
-## Complete Guide & Teaching Report
-
----
-
-## 📋 Workshop Overview
-
-**Duration:** 60 minutes  
-**Level:** Beginner to Intermediate  
-**Target Audience:** Students/Developers new to Flutter  
-**Prerequisites:** Basic programming knowledge, Flutter SDK installed
-
----
 
 ## 🎯 Learning Objectives
 
@@ -22,34 +10,6 @@ By the end of this workshop, participants will be able to:
 5. Handle user input and interactions
 6. Create a functional portfolio application
 
----
-
-## 📚 Workshop Timeline (60 minutes)
-
-### **Part 1: Introduction (10 minutes)**
-- What is Flutter? Why Flutter?
-- Flutter architecture overview
-- Widget tree concept
-- Material Design basics
-
-### **Part 2: Core Concepts (15 minutes)**
-- Stateless vs Stateful widgets
-- Common widgets: Container, Row, Column, Card
-- Layout principles
-- Theme and styling
-
-### **Part 3: Hands-on Coding (25 minutes)**
-- Setting up the project
-- Building the portfolio app step-by-step
-- Implementing editable name feature
-- Testing and debugging
-
-### **Part 4: Q&A & Extensions (10 minutes)**
-- Common issues and solutions
-- Enhancement ideas
-- Resources for further learning
-
----
 
 ## 🏗️ Application Architecture
 

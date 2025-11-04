@@ -35,8 +35,8 @@ class PortfolioScreen extends StatefulWidget {
 
 class _PortfolioScreenState extends State<PortfolioScreen> with SingleTickerProviderStateMixin {
   // User Info
-  String userName = "Alex Developer";
-  String userTitle = "Mobile App Development Enthusiast";
+  String userName = "mlsc dev";
+  String userTitle = "flutter pagluu";
   bool isEditing = false;
   late final TextEditingController _nameController;
   late final TextEditingController _titleController;
